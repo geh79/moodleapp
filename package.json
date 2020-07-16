@@ -114,6 +114,8 @@
     "cordova-plugin-whitelist": "1.3.4",
     "cordova-plugin-wkuserscript": "git+https://github.com/moodlemobile/cordova-plugin-wkuserscript.git",
     "cordova-plugin-wkwebview-cookies": "git+https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies.git",
+    "cordova-plugin-wkwebview-engine": "^1.2.1",
+    "cordova-plugin-wkwebview-file-xhr": "^2.1.4",
     "cordova-plugin-zip": "3.1.0",
     "cordova-sqlite-storage": "4.0.0",
     "cordova-support-google-services": "1.3.2",
@@ -213,7 +215,9 @@
       "cordova-plugin-wkwebview-cookies": {},
       "cordova-plugin-qrscanner": {},
       "cordova-plugin-chooser": {},
-      "cordova-plugin-wkuserscript": {}
+      "cordova-plugin-wkuserscript": {},
+      "cordova-plugin-wkwebview-engine": {},
+      "cordova-plugin-wkwebview-file-xhr": {}
     }
   },
   "main": "desktop/electron.js",
