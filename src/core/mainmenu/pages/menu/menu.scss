@@ -92,3 +92,9 @@ ion-app.app-root page-core-mainmenu {
 .core-offline ion-app.app-root page-core-mainmenu .core-network-message {
     background: $red;
 }
+
+.core-offline ion-app.app-root page-core-mainmenu {
+    img[src*="BannerFullFrontPage.jpg"] {
+        display: none;
+    }
+}

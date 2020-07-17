@@ -804,7 +804,7 @@ export class CoreAppProvider {
             CoreConfigConstants.statusbarlighttextios ? this.statusBar.styleLightContent() : this.statusBar.styleDefault();
         } else if (typeof CoreConfigConstants.statusbarbgandroid == 'string' && this.platform.is('android')) {
             // Android Status bar properties.
-            this.statusBar.backgroundColorByHexString(CoreConfigConstants.statusbarbgandroid);
+            this.statusBar.backgroundColorByHexString('#213b71');
             CoreConfigConstants.statusbarlighttextandroid ? this.statusBar.styleLightContent() : this.statusBar.styleDefault();
         } else if (typeof CoreConfigConstants.statusbarbg == 'string') {
             // Generic Status bar properties.
