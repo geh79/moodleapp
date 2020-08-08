@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="39300" id="com.capitalqualitydc" ios-CFBundleVersion="3.9.3.0" version="3.9.3" versionCode="39300" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="39400" id="com.capitalqualitydc" ios-CFBundleVersion="3.9.4.0" version="3.9.4" versionCode="39400" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>CapitalQuality</name>
     <description>CapitalQuality</description>
     <author email="mobile@moodle.com" href="https://moodle.capitalqualitydc.com">CapitalQuality team</author>
